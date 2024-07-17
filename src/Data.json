@@ -1,0 +1,45 @@
+{
+   "games": [
+      {
+         "id": 1,
+         
+         "name": "Archa Nova",
+         "price": 1499,
+         "imgUrl":"https://fantasyobchod.gumlet.io/archa-nova-65435a52c897e.png?mode=fill&fill=solid&fill-color=ffffff&h=500&w=480&dpr=1.0",
+         "publisher": "Mindok",
+         "language": "čeština"
+      },
+      {
+         "id": 2,
+         "name": "Kutná Hora",
+         "price": 1399,
+         "imgUrl":"https://fantasyobchod.gumlet.io/kutna-hora-654345f1c8bcf.png?mode=fill&fill=solid&fill-color=ffffff&h=500&w=480&dpr=1.0",
+         "publisher": "Mindok",
+         "language": "čeština"
+      },
+      {
+         "id": 3,
+         "name": "Na křídlech draků",
+         "price": 1499,
+         "imgUrl":"https://fantasyobchod.gumlet.io/na-kridlech-draku-65dc4209a2460.png?mode=fill&fill=solid&fill-color=ffffff&h=500&w=480&dpr=1.0",
+         "publisher": "Mindok",
+         "language": "čeština"
+      },
+      {
+         "id": 4,
+         "name": "Nukleum",
+         "price": 1399,
+         "imgUrl":"https://fantasyobchod.gumlet.io/nukleum-65ccb1e8dab31.jpeg?mode=fill&fill=solid&fill-color=ffffff&w=1000&dpr=1.0",
+         "publisher": "Old Dawg",
+         "language": "čeština"       
+      },
+      {
+         "id": 5,
+         "name": "Mlem",
+         "price": 649,
+         "imgUrl":"https://fantasyobchod.gumlet.io/mlem-vesmirna-agentura-6593b512abcfa.png?mode=fill&fill=solid&fill-color=ffffff&h=500&w=480&dpr=1.0",
+         "publisher": "Blackfire",
+         "language": "čeština" 
+      }
+   ]
+}

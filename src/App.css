@@ -1,0 +1,22 @@
+.container {
+   min-height: 100vh;
+}
+
+.btn .bi {
+   background-color: transparent; /* Zajišťuje, že ikona má průhledné pozadí */
+}
+
+.container h1 {
+   color: #ba8e7a;
+}
+.container h2 {
+  color: #ba8e7a;
+  font-family: 'Calligraffitti', cursive;
+  font-weight: bold;
+}
+.logo {
+   width: 25px;
+   height: 25px;
+ }
+
+

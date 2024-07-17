@@ -1,0 +1,23 @@
+/* src/Components/GameList/GameList.css */
+.card {
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+ }
+ 
+ .card-body {
+   display: flex;
+   flex-direction: column;
+   justify-content: flex-end;
+   flex-grow: 1;
+ }
+ 
+ .card-title {
+   margin-bottom: auto;
+ }
+ 
+ .card-img-top {
+   object-fit: cover;
+   height: 200px; /* Optional: Adjust based on your desired image height */
+ }
+ 
